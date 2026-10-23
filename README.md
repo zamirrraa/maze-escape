@@ -95,5 +95,5 @@ Here, n is the number of cells, m is the number of walls or slides, and z is the
 * [x] AI use is described.
 * [x] Timing results and complexity analysis are included.
 * [x] The provided examples pass `java tools/Check.java`.
-* [ ] The latest README changes are committed and pushed to GitHub.
-* [ ] The GitHub repository link is submitted in Moodle.
+* [x] The latest README changes are committed and pushed to GitHub.
+* [x] The GitHub repository link is submitted in Moodle.
